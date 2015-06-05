@@ -1,0 +1,21 @@
+{
+  "name": "F1App",
+  "main": "app.js",
+  "version": "0.0.1",
+  "description": "sample F1 project for angular",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
